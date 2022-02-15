@@ -8,8 +8,8 @@ repositories {
 }
 
 dependencies {
-	implementation 'log4j:log4j:v.1.2.17'
-	testImplementation 'junit:junit:v.4.12'
+	implementation 'log4j:log4j:1.2.17'
+	testImplementation 'junit:junit:4.12'
 }
 
 jar {
