@@ -1,4 +1,4 @@
-# Instructions
+# Name/ID
 Matt Labunski ID:1151421
 
 
@@ -12,29 +12,30 @@ Matt Labunski ID:1151421
 ![Ant+Ivy Screen Capture #3](images/AntIvy3.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Ant+Ivy build.
 ![Ant+Ivy Screen Capture #4](images/AntIvy4.jpg)
-- [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
-[hello-world/build.xml](hello-world/build.xml)
-[hello-world/ivy.xml](hello-world/ivy.xml)
+- [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.  
+[Link to hello-world/build.xml](hello-world/build.xml)  
+[Link to hello-world/ivy.xml](hello-world/ivy.xml)  
 
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
 ![Maven Screen Capture #1](images/Maven1.jpg)
 - [10 pts] A screen capture showing a successful build using the Maven script.
+![Maven Screen Capture #2](images/Maven2.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
-- [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
+![Maven Screen Capture #3](images/Maven3.jpg)
+- [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.  
+[Link to hello-world/pom.xml](hello-world/pom.xml)
+
+
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
 ![Gradle Screen Capture #1](images/Gradle1.jpg)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+![Gradle Screen Capture #2](images/Gradle2.jpg)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
-- [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+![Gradle Screen Capture #3](images/Gradle3.jpg)
+- [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.  
+[Link to hello-world/build.gradle](hello-world/build.gradle)  
 
 
-**HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
-
-```
-![Screen Capture #1](images/my-screen-capture.jpg)
-```
-
-The first argument is the Alt-text for the image. The second argument is the path to the image. Make sure your images are readable and that you save them in a JPG or PNG format.
